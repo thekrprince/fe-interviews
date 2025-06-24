@@ -34,6 +34,13 @@
   1. Problem: Reverse a string without affecting special characters.
 
      ```
-     Input -> "  This 9s Bangkok!!!  "
-     Output -> "  kokgnaB s9 sihT!!!  "
+     Input = "  This 9s Bangkok!!!  "
+     Output = "  kokgnaB s9 sihT!!!  "
+     ```
+
+  2. Minimum Replacements to Remove Adjacent Duplicates.
+
+     ```
+     Input = ["add", "boook", "break", "booooook"]
+     Output = [1, 1, 0, 3]
      ```
