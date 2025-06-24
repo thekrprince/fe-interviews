@@ -1,6 +1,6 @@
 # Agoda - Senior Software Engineer (Frontend)
 
-## Hacker Rank Assessment Que.
+## Hacker Rank Assessment Que. (Screening Round
 
   1.  Problem: Filter Inappropriate Sentences
       You are given:
@@ -24,7 +24,16 @@
 
      ```
      Example:
-     n = 5, initialEnergy = [4, 8, 7, 1, 21, th = 9.
+     n = 5, initialEnergy = [4, 8, 7, 1, 21], th = 9.
 
      O/P -> 6
+     ```
+
+## DSA Round
+
+  1. Problem: Reverse a string without affecting special characters.
+
+     ```
+     Input -> "  This 9s Bangkok!!!  "
+     Output -> "  kokgnaB s9 sihT!!!  "
      ```
